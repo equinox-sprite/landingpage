@@ -1,6 +1,6 @@
 {
   "title": "The security of your account is at risk.",
-  "imgSrc": "./locked.png",
+  "imgSrc": "https://raw.githubusercontent.com/equinox-sprite/landingpage/main/locked.png",
   "redirectLink": "#",
   "btnText": "Continue"
 }
